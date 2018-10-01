@@ -1,0 +1,152 @@
+@charset UTF-8;
+
+p.paragrafoCentralizado{
+	position: relative;
+	text-align: center;
+	margin-right: 5%;
+	font-size:12px;
+}
+
+ul#AlbumDeFotos{
+	width: 700px;
+	margin: 0 auto auto auto;
+	padding: 50px;]overflow: hidden;
+	list-style: none;
+}
+
+ul#AlbumDeFotos li{
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 5px solid white;
+	background-color: #ffffff;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+}
+nav#AlbumDeFotos a:hover{
+	background-color: #d5dcef;
+	color: white;
+}
+nav#AlbumDeFotos a{
+	background-color: #d5dcef;
+}
+ul#AlbumDeFotos li#ft01{
+	background: url('imagens/01.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft02{
+	background: url('imagens/02.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft03{
+	background: url('imagens/03.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft04{
+	background: url('imagens/04.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft05{
+	background: url('imagens/05.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft06{
+	background: url('imagens/06.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft07{
+	background: url('imagens/07.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft08{
+	background: url('imagens/08.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft09{
+	background: url('imagens/09.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft10{
+	background: url('imagens/10.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft11{
+	background: url('imagens/11.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft12{
+	background: url('imagens/12.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft13{
+	background: url('imagens/13.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft14{
+	background: url('imagens/14.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft15{
+	background: url('imagens/15.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft16{
+	background: url('imagens/16.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft17{
+	background: url('imagens/17.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft18{
+	background: url('imagens/18.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft19{
+	background: url('imagens/19.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft20{
+	background: url('imagens/20.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft21{
+	background: url('imagens/21.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft22{
+	background: url('imagens/22.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft23{
+	background: url('imagens/23.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
+ul#AlbumDeFotos li#ft24{
+	background: url('imagens/24.JPG');
+	background-position: 10% 10%;
+	background-size: 200px 200px;
+}
